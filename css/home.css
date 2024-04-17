@@ -1,0 +1,135 @@
+#me{
+  background-color: #D9EEE1;
+}
+#java{
+  display: none;
+}
+h4{
+  color: black;
+}
+.text1{
+  font-weight: bold;
+  color: white;
+  margin-left: 2%;
+  text-transform: uppercase;
+}
+#change{
+  cursor: pointer;
+}
+#backgound{
+background-color: #282A35;
+border-radius: 0px 0px 0px 0px;
+}
+#learncode{
+  font-size: 50px;
+  font-weight: 700;
+  color: white;
+  text-align: center;
+  margin-top: 20%;
+  font-family:  sans-serif;
+}
+#site{
+    font-size: 23px;
+    color: #FFC0C7;
+    font-weight: 700;
+    margin-top: 30px;
+    text-align: center;
+    font-family: sans-serif;
+}
+#search{
+    margin-top: 20px;
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 25px;
+    margin-left: 15%;
+    width: 55%;
+    border: none;
+    height: 15%;
+}
+#searchbutton{
+  margin-top: 20px;
+  border-bottom-right-radius: 25px;
+  border-top-right-radius: 25px;
+  width: 15%;
+  margin-bottom: 40px;
+  background-color: #04AA6D;
+  border: none;
+  height: 15%;
+}
+#notsure{
+  color: white;
+}
+#note{
+  font-size: 23px;
+  font-weight: 700;
+  cursor: pointer;
+  color: white;
+  text-align: center;
+}
+#Courses{
+margin-top: 30px;
+text-align: center;
+text-transform: uppercase;
+}
+.box1{
+display: none;
+box-shadow: 2px 2px 5px 2px grey;
+
+}
+.box2{
+ box-shadow: 2px 2px 5px 2px grey;
+  background-color: white;
+  margin-top: 7%;
+  border-radius: 3%;
+  cursor: pointer;
+
+}
+#empty{
+   background-color: white;
+   margin-top: 10%;
+   border-radius: 3%;
+   cursor: pointer;
+}
+.image{
+  height: 50%;
+  width: 100%;
+  margin-top: 2%;
+}
+.box1:hover{
+     box-shadow: 2px 2px 7px 5px  	#8FBC8F;
+}
+.box2:hover{
+     box-shadow: 2px 2px 7px 5px  	#8FBC8F;
+}
+.free{
+  color: black;
+  font-size: 20px;
+  .opacity: .8;
+  text-align: center;
+  font-weight: 700;
+}
+.about{
+  color: black;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+h6
+{
+    font-weight: 700;
+    margin-left: 5%;
+    text-align: center;
+}
+.buttons{
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    margin-bottom: 20px;
+}
+#footer{
+  background-color: black;
+  color: white;
+  opacity: .8;
+}

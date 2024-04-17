@@ -1,0 +1,47 @@
+body{
+  background-color: #8FBC8F;
+}
+#backgound{
+  background-color: black;
+  opacity: .8;
+  border-radius: 2%;
+
+}
+#fav{
+  margin-left: 20%;
+}
+.text1{
+  font-weight: bold;
+  color: white;
+  margin-left: 2%;
+  text-transform: uppercase;
+}
+.box1{
+  margin-top: 3%;
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+  font-weight: 700;
+  margin-top: 7%;
+  padding-top: 7%;
+  text-transform: uppercase;
+}
+h2,h5,h1{
+  text-align: center;
+  color: white;
+}
+p{
+  color:white;
+  font-weight: normal;
+}
+#footer{
+  color: white;
+  opacity: .8;
+}
+#text2{
+  margin-left: 3%;
+  margin-top: 1%;
+}
+.mytext{
+  max-width: 100%;
+}

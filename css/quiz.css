@@ -1,0 +1,65 @@
+body{
+  background-color: #8FBC8F;
+}
+h4{
+  color: black;
+}
+#text1
+{
+  color: white;
+  text-align: center;
+  margin-top: 7%;
+  margin-left: 15%;
+  text-transform: uppercase;
+}
+#background_2{
+  background-color: black;
+  opacity: .8;
+}
+#start{
+  font-weight: bold;
+  color: white;
+  margin-top: 12%;
+}
+#text3{
+  color: white;
+}
+#text4{
+  color: white;
+  font-weight: bold;
+  margin-left: 5%;
+  margin-top: 4%;
+  display: inline-block;
+}
+#text5{
+  display: inline-block;
+  color: white;
+  margin-left: 6%;
+}
+.question{
+  margin-left: 7%;
+  color: white;
+  font-size: 20px;
+}
+.mcqs{
+  margin-top: 4%;
+  margin-left: 9%;
+  font-weight: bold;
+  display: inline-block;
+}
+.text6{
+  display:inline-block;
+  color: white;
+}
+P{
+  font-size: 20px;
+  font-weight: bolder;
+}
+#footer{
+  color: white;
+  opacity: .8;
+}
+#text2{
+  margin-left: 3%;
+  margin-top: 1%;
+}

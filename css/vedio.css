@@ -1,0 +1,47 @@
+body{
+  background-color: #8FBC8F;
+}
+h4{
+  color: black;
+}
+h4{
+  color: black;
+}
+.text1{
+  font-weight: bold;
+  color: white;
+  margin-left: 2%;
+  text-transform: uppercase;
+}
+#text1
+{
+  color: white;
+  text-align: center;
+  margin-top: 7%;
+  margin-left: 15%;
+  text-transform: uppercase;
+}
+#footer{
+  color: white;
+  opacity: .8;
+}
+#text2{
+  margin-left: 3%;
+  margin-top: 1%;
+}
+.lecture
+{
+  text-align: center;
+  font-weight: bolder;
+  text-transform: uppercase;
+}
+.box2{
+  box-shadow: 2px 2px 7px 5px  	#8FBC8F;
+  background-color: #D9EEE1;
+  cursor: pointer;
+  margin-top: 5%;
+  width: 100%;
+  cursor: pointer;
+}
+.article{
+}
